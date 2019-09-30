@@ -2,7 +2,7 @@ import string as str
 import decimal
 import numpy as np
 import zipfile
-s = 'The quick brown'
+s = 'The quick brown fox'
 print(str.capwords(s))
 
 fmt = '{0:<25} {1:<25}'
